@@ -152,7 +152,7 @@
                   Trợ giúp
                 </a>
               </li>
-              <li
+              <li onclick="toggleForm()" id="show-login"
                 class="header__navbar-item header__navbar-item--strong header__navbar-item--separate"
               >
                 Đăng nhập
@@ -218,10 +218,12 @@
                     </a>
                 </div>
             </div> -->
-
+          
             <!--Login Form-->
             <div class="auth-form">
+              <div onclick="toggleForm()" class="modal__close">X</div>
                 <div class="auth-form__container">
+                 
                     <div class="auth-form__header">
                         <h3 class="auth-form__heading">Đăng nhập</h3>
                         <span class="auth-form__switch-btn">Đăng ký</span>
@@ -262,5 +264,6 @@
             </div>
         </div>
     </div>
+    <script src="./assets/js/style.js"></script>
   </body>
 </html>

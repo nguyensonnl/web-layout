@@ -1,3 +1,10 @@
 shoppe shop from F8
 
 bài 139
+
+Navbar
+Header QR
+Header Notification
+
+Modal
+Form đăng ký / đăng nhập

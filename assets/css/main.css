@@ -255,6 +255,14 @@
 }
 
 /*Authen modal*/
+.modal__close{
+    font-size: 1.4rem;
+    float: right;
+    cursor: pointer;
+    padding: 8px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
 .auth-form{
     width: 500px;
     background-color: var(--white-color);
