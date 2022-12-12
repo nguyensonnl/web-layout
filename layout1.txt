@@ -1,10 +1,11 @@
 shoppe shop from F8
 
-bài 139
+bài 142
 
-Navbar
-Header QR
-Header Notification
-
-Modal
-Form đăng ký / đăng nhập
+Header
+    -Navbar
+        -Header QR
+        -Header Notification
+        -Modal
+        -Form đăng ký / đăng nhập
+    -Search
