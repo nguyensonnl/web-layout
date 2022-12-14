@@ -1,7 +1,9 @@
-shoppe shop from F8
+Layout: shoppe shop from F8
 
-bài 142
+Doing:
+bài 143
 
+Structure layout;
 Header
     -Navbar
         -Header QR
