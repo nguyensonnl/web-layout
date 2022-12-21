@@ -11,3 +11,5 @@ Header
         -Modal
         -Form đăng ký / đăng nhập
     -Search
+
+Trong lúc làm sẽ gặp các vấn đề hoặc lỗ hổng kiến thức, em cứ google
