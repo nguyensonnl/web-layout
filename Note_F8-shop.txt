@@ -1,9 +1,7 @@
 Layout: shoppe shop from F8
 
 Doing:
-bài 145
-
-Bài 160
+Bài 161
 
 Structure layout;
 Header
@@ -15,3 +13,22 @@ Header
     -Search
 
 Trong lúc làm sẽ gặp các vấn đề hoặc lỗ hổng kiến thức, em cứ google
+
+Header: Fix UI bugs
+- Navbar font-size
+- Navbar social-icons
+- Navbar bell-icon
+- Notification arrow-top offset + z-index + border-radius
+- Navbar margin between avatar & name
+- User menu separate
+- Logo link
+- Search selection offset-top
+
+- Header QR code z-index
+- User menu offset-top
+- Search history z-index
+- Search selection z-index
+- Cart z-index
+- Cart: Product name limiting
+- Category style
+- Product border-radius

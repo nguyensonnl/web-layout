@@ -113,7 +113,7 @@ html{
 /* end Modal */
 
 .btn{
-    min-width: 142px;
+    min-width: 124px;
     height: 34px;
     text-decoration: none;
     border: none;
@@ -183,6 +183,7 @@ html{
 
 .select-input__list{
     position: absolute;
+    z-index: 1;
     top: 25px;
     left: 0;
     right: 0;
